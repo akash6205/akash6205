@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning **JavaScript, ReactJs**
-- 📫 How to reach me **ak3479885@gmail.com**
+- 📫 How to reach me **ak3749885@gmail.com**
 
 
 ## 🌐Socials
