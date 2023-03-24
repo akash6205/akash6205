@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning **JavaScript, ReactJs**
-- 📫 How to reach me **aditya32ft@gmail.com**
+- 📫 How to reach me **ak3479885@gmail.com**
 
 
 ## 🌐Socials
@@ -17,12 +17,12 @@
 
 
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs?username=thakur1203&theme=nightowl&hide_border=false&show_icons=true&locale=en&layout=compact)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thakur1203&theme=nightowl&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api?username=thakur1203&theme=nightowl&hide_border=false&show_icons=true&locale=en)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=akash6205&theme=nightowl&hide_border=false&show_icons=true&locale=en&layout=compact)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akash6205&theme=nightowl&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=akash6205&theme=nightowl&hide_border=false&show_icons=true&locale=en)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thakur1203&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=akash6205&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 
-[![](https://visitcount.itsvg.in/api?id=thakur1203&icon=0&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=akash6205&icon=0&color=8)](https://visitcount.itsvg.in)
